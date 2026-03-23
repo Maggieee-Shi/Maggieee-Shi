@@ -14,14 +14,17 @@ I build full-stack and data-driven products with a focus on backend systems, clo
 <span>⛳️ Enjoying my time playing golf and staying active with yoga!</span><br/>
 <span>📚 Engaging in various software development projects with a focus on creating impactful and efficient solutions.</span><br/>
 
+## Featured Projects
 
----
+### ⛳ [Fairway Rate Hub](https://fairway-rate-hub.vercel.app/)
+Bay Area golf course discovery platform with GPT-4 powered Q&A and semantic caching.  
+`React` `Django` `MySQL` `GCP Cloud SQL` `OpenAI API` `Vercel` `Railway`  
+**🔗 [Open Live Demo](https://fairway-rate-hub.vercel.app/)**
 
-## 🧩 Languages
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,c,sql" />
-</p>
+### 🏌️ [Green Swap](https://green-swap-alpha.vercel.app/)
+Second-hand golf equipment marketplace with real-time chat, Stripe payments, and WebSocket messaging.  
+`React` `Spring Boot` `PostgreSQL` `AWS EC2` `AWS RDS` `Stripe` `WebSocket` `Vercel`  
+**🔗 [Open Live Demo](https://green-swap-alpha.vercel.app/)**
 
 ## 🧱 Frameworks & Libraries
 
