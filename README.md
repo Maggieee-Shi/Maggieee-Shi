@@ -19,12 +19,12 @@ I build full-stack and data-driven products with a focus on backend systems, clo
 ### ⛳ [Fairway Rate Hub](https://fairway-rate-hub.vercel.app/)
 Bay Area golf course discovery platform with GPT-4 powered Q&A and semantic caching.  
 `React` `Django` `MySQL` `GCP Cloud SQL` `OpenAI API` `Vercel` `Railway`  
-**🔗 [Open Live Demo](https://fairway-rate-hub.vercel.app/)**
+👉 **[Live Demo](https://fairway-rate-hub.vercel.app/)**
 
 ### 🏌️ [Green Swap](https://green-swap-alpha.vercel.app/)
 Second-hand golf equipment marketplace with real-time chat, Stripe payments, and WebSocket messaging.  
 `React` `Spring Boot` `PostgreSQL` `AWS EC2` `AWS RDS` `Stripe` `WebSocket` `Vercel`  
-**🔗 [Open Live Demo](https://green-swap-alpha.vercel.app/)**
+👉 **[Live Demo](https://green-swap-alpha.vercel.app/)**
 
 ## 🧱 Frameworks & Libraries
 
