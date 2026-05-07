@@ -10,7 +10,7 @@ I build full-stack and data-driven products with a focus on backend systems, clo
 ## 👩‍💻 About me
 
 <span>🎓 Mastering Database Systems, Distributed Systems, and Cloud Computing at Northeastern!</span><br/>
-<span>💼 SWE Intern @ **Isper Lab** (just started — building & improving platform features)</span><br/>
+<span>💼 Prior SWE Intern @ **Isper Lab** (building & improving platform features)</span><br/>
 <span>⛳️ Enjoying my time playing golf and staying active at the gym!</span><br/>
 <span>📚 Engaging in various software development projects with a focus on creating impactful and efficient solutions.</span><br/>
 
