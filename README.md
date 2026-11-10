@@ -1,7 +1,7 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
 <p align="left">
-I'm Maggie Shi, an MS in Computer Science student at Northeastern University, graduating May 2027 and seeking full-time SDE roles. I'm a backend/cloud engineer with production experience in distributed systems and microservices (Java, Python, gRPC, service mesh) across AWS and GCP.
+I'm Maggie Shi, an MS in Computer Science student at Northeastern University, graduating May/Dec 2027 and seeking full-time/Intern SDE roles. I'm a backend/cloud engineer with production experience in distributed systems and microservices (Java, Python, gRPC, service mesh) across AWS and GCP.
 </p>
 
 ---
