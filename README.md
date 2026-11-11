@@ -9,7 +9,7 @@ I'm Maggie Shi, an MS in Computer Science student at Northeastern University, gr
 ## 👩‍💻 About me
 
 <span>🎓 Mastering Database Systems, Distributed Systems, and Cloud Computing at Northeastern!</span><br/>
-<span>💼 💼 Backend Engineer Intern @ Tinder: shipped a device-aware photo-quality feature in a reactive Spring Boot and gRPC architecture serving 400K QPS, with A/B experiments (+1.6% revenue) and Prometheus/Grafana observability; applied context engineering to an AI coding agent (Claude Code)  
+<span>💼 Backend Engineer Intern **@ Tinder**: shipped a device-aware photo-quality feature in a reactive Spring Boot and gRPC architecture serving 400K QPS, with A/B experiments (+1.6% revenue) and Prometheus/Grafana observability; applied context engineering to an AI coding agent (Claude Code)  
 <span>💼 Software Engineer Intern @ **Ipser Lab**: built Elasticsearch search, Java REST APIs, and a redesigned PostgreSQL schema for a contract manufacturing platform  
 <span>⛳️ Enjoying my time playing golf and staying active at the gym!</span><br/>
 <span>📚 Engaging in various software development projects with a focus on creating impactful and efficient solutions.</span><br/>
